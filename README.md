@@ -20,21 +20,11 @@ Hi There!
 - ⚡ Fun fact: Former ER Nurse
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,react,mysql,html5,css,photoshop,github,figma&theme=light)](https://skillicons.dev)
-
-
-
-
-
-
-
-<!--
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rubenarcos_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gilhasabadi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ruben-arcos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rubenarcos_/" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruben arcos" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruben arcos" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,8 +32,6 @@ Hi There!
 
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#023430" rx="60"/>
   
-
-  -->
   
   
 

@@ -12,7 +12,6 @@ Here are some ideas to get you started: -->
 <h1 align="center">I'm Ruben Arcos</h1>
 <h3 align="center">A passionate full-stack developer based in Dallas</h3>
 
-Hi There! 
 
 - 🌱 I’m currently learning at 100Devs
 - 📫 How to reach me: **ruben.arcos06@gmail.com**

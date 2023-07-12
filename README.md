@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning at 100Devs
 - 📫 How to reach me: **ruben.arcos06@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Former ER Nurse
+- ⚡ Fun fact: I'm an ER Nurse
 
 
 <h3 align="left">Connect with me:</h3>
